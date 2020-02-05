@@ -228,7 +228,7 @@ Page({
                 data: {
                 },
                 success(res) {
-                    // console.log("CloudResult:", res);
+                    console.log("CloudResult:", res);
                     // console.log("openidCloudResult:", res.result.openid);
                     that.setData({
                         openid: res.result.openid
@@ -569,7 +569,7 @@ Page({
         return {
             title: this.data.jinrishici,
             path: '/pages/index/index',
-            imageUrl: 'https://image.aquan.run/poster.jpg',
+          imageUrl: 'https://www.sunce.wang/upload/2020/2/poster-99bdd1013e664423972fad31b58019b3.png',
         }
     },
 })

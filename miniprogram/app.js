@@ -6,7 +6,7 @@ App({
         }
         else {
             wx.cloud.init({
-                env: 'xlr-0053be',
+                env: 'test-y528p',
                 traceUser: true,
             })
         }
@@ -92,13 +92,13 @@ App({
         userInfo: null,
         skin: null,
         roleFlag: false,
-        url: "xx",//http://localhost:8090
-        BlogName: "xx",
-        token: "xx",
+      url: "https://www.sunce.wang",//http://localhost:8090
+        BlogName: "爪哇部落格",
+        token: "sexylworieisagoodboy",
         highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
-        adminOpenid: "xx",
-        HaloUser: "xx",
-        HaloPassword: "xx"
+        adminOpenid: "otIci0SnnoqSBaXUByEsGPAdhBpM",
+        HaloUser: "sexylowrie",
+        HaloPassword: "1234qwer"
     }
     
 })

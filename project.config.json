@@ -23,15 +23,16 @@
 		}
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.8.3",
-	"appid": "wxe0face0d131e0bd2",
-	"projectname": "meow",
+	"libVersion": "2.10.1",
+	"appid": "wxc9a0909ce09fc180",
+	"projectname": "WeHalo",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
 	"isGameTourist": false,
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
 	"condition": {
 		"search": {
 			"current": -1,
